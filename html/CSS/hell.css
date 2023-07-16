@@ -1,0 +1,43 @@
+
+    .fontss{
+        font-family: 'Barlow Condensed', sans-serif;font-size: 20px;
+        font-weight: bold;
+        line-height: 22px;
+        width: 300px;
+        margin-bottom: 2px;
+    }
+    .f2{
+        margin-top: 0;
+        font-family: 'Barlow Condensed', sans-serif;
+        font-weight: lighter;
+        font-size: 14px;
+        color: #606060;
+    }
+    .f3{
+        font-family: 'Barlow Condensed', sans-serif;
+        color:#606060;
+
+    }
+    .f4{
+       
+        font-family: Arial, Helvetica, sans-serif;
+        width: 300;
+        color: #606060;
+        font-size: 13;
+    }
+    .f5{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        background-color: red;
+        text-align: center;
+        padding: 10px;
+        color: aliceblue;
+    }
+    .hh{
+        margin-left: 12px;
+
+    }
+    .hh:hover{
+        cursor: pointer;
+        text-decoration: underline;
+    }
